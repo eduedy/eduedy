@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![KDY's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduedy)](https://github.com/anuraghazra/github-readme-stats)
+[![KDY's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduedy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
